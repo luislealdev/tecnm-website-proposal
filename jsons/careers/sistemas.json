@@ -1,0 +1,199 @@
+{
+    "nameCareer": "Ingenieria en Sistemas Computacionales",
+    "nameProfessional": "Ingeniero/a en Sistemas Computacionales",
+    "professionalProfile" : "El y la Ingeniero/a en Sistemas Computacionales, tiene conocimientos de alto nivel tecnológico y científico para ser un profesionista con visión innovadora capaz de crear y proveer soluciones de software e infraestructura computacional de vanguardia en la nueva y dinámica sociedad dela era digital.Las y los egresados de Ingeniería en Sistemas Computacionales serán profesionistas, analíticos, críticos, creativos, con liderazgo y con visión estratégica, amplio sentido ético, capaz de diseñar, administrar e implementar infraestructura computacional para aportar soluciones creativas e innovadoras en beneficio de la sociedad, en un contexto global, multidisciplinario y sustentable.",
+    "admissionProfile": "El y la estudiante al ingresar, deberá tener habilidades matemáticas y lógicas, capacidad de análisis y síntesis de información, habilidades de investigación, así como interés por la computación y la programación, disposición para trabajar en equipo y sentido de compromiso social.",
+    "habilities": [
+        {
+           "habilitie": "Desarrollar, implementar y administrar software de sistemas y de aplicación, que cumpla con los estándares de calidad con el fin de apoyarla productividad y competitividad de las organizaciones."
+        },
+        {
+            "habilitie": "Diseñar, configurar y administrar redes computacionales aplicando las normas y estándares vigentes."
+        },
+        {
+            "habilitie": "Identificar y comprenderlas tecnologías de hardware para proponer, desarrollar y mantener aplicaciones eficientes."
+        },
+        {
+            "habilitie": "Diseñar, desarrollar y administrar bases de datos conforme requerimientos definidos, normas organizacionales de manejo y seguridad de la información, utilizando tecnologías emergentes"
+        },
+        {
+            "habilitie": "Integrar soluciones computacionales con diferentes tecnologías, plataformas o dispositivos."
+        },
+        {
+            "habilitie": "Desarrollar una visión empresarial para detectar áreas de oportunidad que le permiten emprender y desarrollar proyectos aplicándo las tecnologías de la información y comunicación."
+        }
+    ],
+    "professionalResidences" : "A partir del 80% de créditos podrá realizar residencias profesionales, en donde pondrá en práctica sus conocimientos adquiridos en organizaciones gubernamentales, privadas, así como en la industria de software.",
+    "objectives": [
+        {
+            "objetive": "Desarrollan carreras profesionales establecidas en las empresas de manufactura, comercio o servicios, utilizando las habilidades y conocimientos de Ingeniería en Sistemas Computacionales en el desarrollo de soluciones tecnológicas a las necesidades y retos de sus ámbitos laborales."
+        },
+        {
+            "objetive": "Aplican una visión emprendedora para generar sus propias empresas, en donde puedan detectar áreas de oportunidad que les permitan desarrollar los proyectos tecnológicos solicitados por sus clientes, aplicando las tecnologías de la información y comunicación."
+        },
+        {
+            "objetive": "Mantienen un permanente interés en el desarrollo y mejoramiento de sus competencias profesionales mediante procesos de capacitación, certificación, o estudios de posgrado, con la finalidad de complementar y fortalecer sus conocimientos y habilidades."
+        },
+        {
+            "objetive": "Son líderes de grupos multidisciplinarios en empresas a nivel nacional e internacional, de manera que consiguen integrar y complementar equipos de trabajo altamente efectivos en la atención a los retos que se les demanden."
+        }
+    ],
+    "graduateInformation": "El y la Ingeniero/a en Sistemas Computacionales cuenta un amplio campo de trabajo, dado quela industrial del software requiere profesionistas creativos con capacidades para desarrollar sistemas, diseñar y administrar redes de computadoras, diseño de sitios web, tecnologías móviles, internet, videojuegos y seguridad de información tanto en el sector público, privado o como consultor/a especializado.",
+    "graduateAttributes": [
+        {
+            "attribute": "Identificar, formular y resolver problemas complejos de ingeniería aplicando los principios de las ciencias básicas e ingeniería."
+        },
+        {
+            "attribute": "Aplicar, analizar y sintetizar procesos de diseño de ingeniería que resulten en proyectos que cumplen las necesidades especificadas."
+        },
+        {
+            "attribute": "Desarrollar y conducir experimentación adecuada; analizar e interpretar datos y utilizar el juicio ingenieril para establecer conclusiones."
+        },
+        {
+            "attribute": "Comunicarse efectivamente con diferentes audiencias."
+        },
+        {
+            "attribute": "Reconocer sus responsabilidades éticas y profesionales en situaciones relevantes para la ingeniería y realizar juicios informados que deben considerar el impacto de las soluciones de ingeniería en los contextos global, económico, ambiental y social."
+        },
+        {
+            "attribute": "Reconocer la necesidad permanente de conocimiento adicional y tener la habilidad para localizar, evaluar, integrar y aplicar este conocimiento adecuadamente."
+        },
+        {
+            "attribute": "Trabajar efectivamente en equipos que establecen metas, planean tareas, cumplen fechas límite y analizan riesgos e incertidumbre."
+        }        
+    ],
+    "infrastructure": [
+        {
+            "description": "Cuenta con laboratorios equipados con tecnologia de primer nivel en el desarrollo de competencias de las asignaturas que conforman el plan de estudios",
+            "laboratories": [
+                {
+                    "laboratory": "Laboratorio de Sistemas Operativos"
+                },
+                {
+                    "laboratory": "Laboratorio de redes"
+                },
+                {
+                    "laboratory": "Laboratorio de arquitectura de computadoras"
+                },
+                {
+                    "laboratory": "Laboratorio de programacion"
+                }
+            ]
+        }
+    ],
+    "planStudies":[
+        {
+            "semester": "Semestre 1",
+            "courses":[
+                {"course1": "Calculo diferencial"},
+                {"course2": "Fundamentos de programacion"},
+                {"course3": "Taller de etica"},
+                {"course4": "Fundamentos de investigacion"},
+                {"course5": "Matematicas discretas"},
+                {"course6": "Tutorias"},
+                {"languajeCourse": "English for life and work I"}
+            ]  
+        },
+        {
+            "semester": "Semestre 2",
+            "courses":[
+                {"course1": "Calculo integral"},
+                {"course2": "Programacion orientada a objetos"},
+                {"course3": "Taller de administracion"},
+                {"course4": "Quimica"},
+                {"course5": "Desarrollo sustentable"},
+                {"course6": "Probabilidad y estadistica"},
+                {"languajeCourse": "English for life and work II"}
+            ]
+        },
+        {
+            "semester": "Semestre 3",
+            "courses":[
+                {"course1": "Calculo vectorial"},
+                {"course2": "Estructura de datos"},
+                {"course3": "Contabilidad financiera"},
+                {"course4": "Investigacion de operaciones"},
+                {"course5": "Alegebra lineal"},
+                {"course6": "Fisica general"},
+                {"languajeCourse": "English for life and work III"}
+            ]
+        },
+        {
+            "semester": "Semestre 4",
+            "courses":[
+                {"course1": "Ecuaciones diferenciales"},
+                {"course2": "Topicos avanzados de programacion"},
+                {"course3": "Metodos numericos"},
+                {"course4": "Fundamentos de bases de datos"},
+                {"course5": "Sistemas operativos"},
+                {"course6": "Principios electronicos y aplicaciones digitales"},
+                {"languajeCourse": "English for life and work IV"}
+            ]
+        },
+        {
+            "semester": "Semestre 5",
+            "courses":[
+                {"course1": "Fundamentosde telecomunicaciones"},
+                {"course2": "Fundamentosde ingeniería de software"},
+                {"course3": "Simulación"},
+                {"course4": "Taller de bases de datos"},
+                {"course5": "Taller de sistemas operativos"},
+                {"course6": "Arquitectura de computadoras"},
+                {"course7": "Cultura empresarial"},
+                {"languajeCourse": "English for life and work V"}
+            ] 
+        },
+        {
+            "semester": "Semestre 6",
+            "courses":[
+                {"course1": "Redes de computadoras"},
+                {"course2": "Ingeniería de software"},
+                {"course3": "Programación web"},
+                {"course4": "Administración de bases de datos"},
+                {"course5": "Lenguajes y autómatas II"},
+                {"course6": "Lenguajesde interfaz"},
+                {"course7": "Graficación"},
+                {"languajeCourse": "Lengua extranjera"}
+            ]
+        },
+        {
+            "semester": "Semestre 7",
+            "courses":[
+                {"course1": "Conmutación y enrutamiento de redes"},
+                {"course2": "Gestión de proyectos de software"},
+                {"course3": "Tópicos avanzados de programación web"},
+                {"course4": "Taller de investigación I"},
+                {"course5": "Lenguajes y autómatas II"},
+                {"course6": "Inteligencia artificial"},
+                {"course7": "Sistemas programables"},
+                {"specialModule": "Materia #1 módulo especialidad"},
+                {"languajeCourse": "Lengua extranjera"}
+            ]
+        },
+        {
+            "semester": "Semestre 8",
+            "courses":[
+                {"course1": "Administración de redes"},
+                {"course2": "Taller de investigación II"},
+                {"course3": "Programación lógica y funcional"},
+                {"specialModule": "Materia #2 módulo especialidad"},
+                {"specialModule": "Materia #2 módulo especialidad"},
+                {"specialModule": "Materia #2 módulo especialidad"},
+                {"specialModule": "Materia #2 módulo especialidad"},
+                {"languajeCourse": "Lengua extranjera"}
+            ]
+        },
+        {
+            "semester": "Semestre 9",
+            "professionalResidences": "Residencias profesionales",
+            "acitivities": "Actividades complementarias de formacion integral desde el primer semestre",
+            "socialService": "Servicio social al contar con 70% de creditos"
+        }           
+    ],
+    "specialModules":[
+        {
+            "specialModuleOne": "Tecnologias emergentes para la toma de decisiones",
+            "specialModuleTwo": "Gestion de datos y tecnologias e informacion"
+        }
+    ]
+}
